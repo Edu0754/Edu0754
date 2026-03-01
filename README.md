@@ -35,7 +35,7 @@ Prezo por profissionalismo, postura madura e tomada de decisões justas, mesmo s
 
 ## 📬 Contato
 
-Discord: Edu0754  
+ Discord: edu.vortex07
 Status: Disponível para oportunidades na staff  
 
 ---
