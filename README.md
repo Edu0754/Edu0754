@@ -1,4 +1,4 @@
-<h1 align="center">🛡 Edu</h1>
+<h1 align="center">🛡 Portfólio Staff</h1>
 <p align="center"><b>Staff de Comunidade | Moderação e Organização</b></p>
 
 ---
