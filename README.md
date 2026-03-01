@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">🛡 Edu</h1>
+<p align="center"><b>Staff de Comunidade | Moderação e Organização</b></p>
 
-<!--
-**Edu0754/Edu0754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Membro de staff dedicado e responsável, com experiência em servidor de grande porte (+75.000 membros).
+
+Atuo com foco em organização, imparcialidade na aplicação das regras e manutenção de um ambiente saudável para todos os membros da comunidade.
+
+Prezo por profissionalismo, postura madura e tomada de decisões justas, mesmo sob pressão.
+
+---
+
+## 🛠 Experiência
+
+**Equipe de Suporte – Servidor com +75.000 membros**  
+• Auxílio na organização interna do servidor  
+• Aplicação e reforço das diretrizes da comunidade  
+• Suporte aos membros  
+• Colaboração com a equipe de moderação  
+
+---
+
+## 🎯 Competências
+
+• Aplicação imparcial de regras  
+• Resolução de conflitos  
+• Comunicação clara e respeitosa  
+• Trabalho em equipe  
+• Organização estrutural  
+
+---
+
+## 📬 Contato
+
+Discord: Edu0754  
+Status: Disponível para oportunidades na staff  
+
+---
+
+<p align="center">
+  <i>Comprometido em construir comunidades organizadas e bem administradas.</i>
+</p>
